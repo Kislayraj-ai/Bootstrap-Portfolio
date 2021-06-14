@@ -127,12 +127,6 @@ This is an Portfolo template build wioth Bootstrap.
  integrity="sha512-Velp0ebMKjcd9RiCoaHhLXkR1sFoCCWXNp6w4zj1hfMifYB5441C+sKeBl/T/Ka6NjBiRfBBQRaQq65ekYz3UQ=="
   crossorigin="anonymous" referrerpolicy="no-referrer" /> `
 
-  
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
   
 ## Screenshots
@@ -141,5 +135,12 @@ This is an Portfolo template build wioth Bootstrap.
 ## Authors
 
 - [@kislayraj-ai](https://www.github.com/Kislayraj-ai)
+
+  
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
   
