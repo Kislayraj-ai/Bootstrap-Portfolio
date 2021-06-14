@@ -17,13 +17,6 @@ This is an Portfolo template build wioth Bootstrap.
    *  m-1
    *  m-0
 
-`A.1` Margin for X and Y 
-   *  m-5    
-   *  m-4
-   *  m-3
-   *  m-2
-   *  m-1
-   *  m-0
 
 `B` Padding all sides
    *  p-5    
